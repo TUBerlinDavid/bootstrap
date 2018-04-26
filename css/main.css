@@ -21,3 +21,28 @@
 .bg-darker {
     background-color: rgba(50, 50, 50, .1);
 }
+
+/* Bootstrap overwrites */
+.custom-range::-webkit-slider-thumb {
+    background-color: var(--dark);
+}
+
+.custom-range::-webkit-slider-thumb:active {
+    background-color: var(--secondary);
+}
+
+.custom-range::-moz-range-thumb {
+    background-color: var(--dark);
+}
+
+.custom-range::-moz-range-thumb:active {
+    background-color: var(--secondary);
+}
+
+.custom-range::-ms-thumb {
+    background-color: var(--dark);
+}
+
+.custom-range::-ms-thumb:active {
+    background-color: var(--secondary);
+}
