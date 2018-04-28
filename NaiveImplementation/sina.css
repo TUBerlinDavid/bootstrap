@@ -1,0 +1,63 @@
+.buttonPasser{
+
+	margin-bottom:10px;
+	margin-left: 10px;
+	color:grey;
+	background-color:white;
+	background-size:4px 10px;
+    border: none;
+    color: grey;
+    padding: 4px 4px;
+    text-align: center;
+    text-decoration: none;
+  	border-radius: 50%;
+    
+
+}
+
+.buttonPasser:hover{
+
+	background-color:black;
+
+}
+
+.bigbuttonPasser{
+
+margin-top: 10px;
+margin-left:20px;
+
+}
+
+.sinaTask{
+
+margin-top: 50px;
+margin-left:10px;
+padding: 0.20rem 15.0rem
+
+}
+
+.sinaTaskDate{
+
+margin-top: 50px;
+margin-left:10px;
+padding: 0.20rem 5.0rem
+
+}
+.sinaPercent{
+
+margin-top: 50px;
+margin-left:360px;
+padding: 0.20rem 5.0rem
+
+}
+
+
+
+.sinaPercentSubmit{
+
+
+margin-top: 50px;
+margin-left:550px;
+padding: 0.20rem 5.0rem
+background-color:black;
+}
